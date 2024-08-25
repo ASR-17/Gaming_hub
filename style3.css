@@ -1,0 +1,30 @@
+head,body{
+    background-color: rgb(223, 108, 127);
+    margin-top: 0;
+    padding: 0;
+}
+h1{
+    display:block;
+    text-align: center;
+    font-size: 80px;
+    color:#FFD700;
+}
+.zero{
+    display:flex;
+}
+.one,.two,.three{
+    margin-top: 50px;
+    margin-left: 110px;
+    margin-right: 110px;
+    font-size: xx-large;
+    text-align: left;
+    color:white
+}
+.l{
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(123, 28, 211);
+}
+.m{
+    color:rgb(191, 50, 50);
+}

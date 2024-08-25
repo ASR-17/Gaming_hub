@@ -1,0 +1,17 @@
+head,body{
+    background-color: rgba(0, 0, 255, 0.348);
+}
+div{
+    margin-top: 60px;
+    text-align: center;
+    font-size: xx-large;
+}
+.heading{
+    font-size: 50px;
+    margin-top: 20px;
+    color: yellow;
+}
+.desc{
+    margin-top: 15px;
+    color:black;
+}
